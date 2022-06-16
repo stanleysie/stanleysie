@@ -1,16 +1,29 @@
-### Hi there 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">  **&nbsp;Hi, I'm Stanley**!
 
-<!--
-**stanleysie/stanleysie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **⚡&nbsp;About Me**
+* 🎓 **&nbsp;Graduate student**
+* 💻 **&nbsp;Coding instructor**
+* 👨🏻‍💻 **&nbsp;Full-stack web developer**
 
-Here are some ideas to get you started:
+## **👨🏻‍💻 &nbsp;Programming Languages**
+![My Skills](https://skillicons.dev/icons?i=c,cs,java,html,css,js,python&theme=dark&perline=7)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **🛠 &nbsp;Tech Stack**
+![My Skills](https://skillicons.dev/icons?i=angular,bootstrap,next,react,tailwind,nodejs,express,firebase,mongodb,mysql&theme=dark&perline=7)
+
+## **⚙️ &nbsp;Dev Tools**
+![My Skills](https://skillicons.dev/icons?i=vscode,pytorch&theme=dark&perline=7)
+
+## **📖 &nbsp;Currently Learning**
+![My Skills](https://skillicons.dev/icons?i=docker,graphql,kubernetes,ts&theme=dark&perline=7)
+
+## **👉🏻 &nbsp;Connect with Me**
+[![My Skills](https://skillicons.dev/icons?i=github&theme=dark)][github]
+[![My Skills](https://skillicons.dev/icons?i=gitlab&theme=dark)][gitlab]
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)][linkedin]
+[![My Skills](https://skillicons.dev/icons?i=twitter&theme=dark)][twitter]
+
+[github]: https://github.com/stanleysie
+[gitlab]: https://gitlab.com/stanleysie
+[linkedin]: https://www.linkedin.com/in/stanley-lawrence-sie-70908215a
+[twitter]: https://twitter.com/stanls_sie

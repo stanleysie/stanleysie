@@ -2,8 +2,8 @@
 
 ## **⚡&nbsp;About Me**
 * 🎓 **&nbsp;Graduate student**
-* 💻 **&nbsp;Coding instructor**
 * 👨🏻‍💻 **&nbsp;Full-stack web developer**
+* 💻 **&nbsp;Coding instructor**
 
 ## **👨🏻‍💻 &nbsp;Programming Languages**
 ![My Skills](https://skillicons.dev/icons?i=c,cs,java,html,css,js,python&theme=dark&perline=7)

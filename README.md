@@ -6,16 +6,16 @@
 * 💻 **&nbsp;Coding instructor**
 
 ## **👨🏻‍💻 &nbsp;Programming Languages**
-![My Skills](https://skillicons.dev/icons?i=c,cs,java,html,css,js,python&theme=dark&perline=7)
+![My Skills](https://skillicons.dev/icons?i=c,cs,java,html,css,js,ts,python&theme=dark&perline=10)
 
 ## **🛠 &nbsp;Tech Stack**
-![My Skills](https://skillicons.dev/icons?i=angular,bootstrap,next,react,tailwind,nodejs,express,firebase,mongodb,mysql&theme=dark&perline=7)
+![My Skills](https://skillicons.dev/icons?i=angular,bootstrap,next,react,tailwind,nodejs,express,firebase,mongodb,mysql&theme=dark&perline=10)
 
 ## **⚙️ &nbsp;Dev Tools**
-![My Skills](https://skillicons.dev/icons?i=vscode,pytorch&theme=dark&perline=7)
+![My Skills](https://skillicons.dev/icons?i=vscode,pytorch&theme=dark&perline=10)
 
 ## **📖 &nbsp;Currently Learning**
-![My Skills](https://skillicons.dev/icons?i=docker,graphql,kubernetes,ts&theme=dark&perline=7)
+![My Skills](https://skillicons.dev/icons?i=docker,graphql,kubernetes&theme=dark&perline=10)
 
 ## **👉🏻 &nbsp;Connect with Me**
 [![My Skills](https://skillicons.dev/icons?i=github&theme=dark)][github]

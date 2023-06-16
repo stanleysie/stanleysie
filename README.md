@@ -3,7 +3,6 @@
 ## **⚡&nbsp;About Me**
 * 🎓 **&nbsp;Graduate student**
 * 👨🏻‍💻 **&nbsp;Full-stack web developer**
-* 💻 **&nbsp;Coding instructor**
 
 ## **👨🏻‍💻 &nbsp;Programming Languages**
 ![My Skills](https://skillicons.dev/icons?i=c,cs,java,html,css,js,ts,python&theme=dark&perline=7)

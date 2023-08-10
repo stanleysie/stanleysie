@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">  **&nbsp;Hi, I'm Stanley**!
 
-## **⚡&nbsp;About Me**
-* 👨🏻‍💻 **&nbsp;Full-stack web developer**
+<!-- ## **⚡&nbsp;About Me**
+* 👨🏻‍💻 **&nbsp;Full-stack web developer** -->
 
 ## **👨🏻‍💻 &nbsp;Programming Languages**
 ![My Skills](https://skillicons.dev/icons?i=c,cs,java,html,css,js,ts,python&theme=dark&perline=7)

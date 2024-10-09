@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Stanley! A passionate web developer 👨🏻‍💻 based in Indonesia <br><br>I'm currently working full-time as a software engineer. I love coding and most of the time, you will find me in front of my laptop.<br>But when I'm not coding, you can find me exploring new technologies, singing or playing some music, reading manga, watching anime, or playing some video games.<br><br>Feel free to check out my repositories and connect with me if you want to collaborate or just chat about tech! 🚀
+👋 Hi, I'm Stanley! A passionate web developer 👨🏻‍💻 based in Indonesia 🇮🇩 <br><br>I'm currently working full-time as a software engineer. I love coding and most of the time, you will find me in front of my laptop.<br>But when I'm not coding, you can find me exploring new technologies, singing or playing some music, reading manga, watching anime, or playing some video games.<br><br>Feel free to check out my repositories and connect with me if you want to collaborate or just chat about tech! 🚀
 
 
 ## 🌐 Socials:
